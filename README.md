@@ -21,6 +21,7 @@ Make sure to plot and include the visualizations in this report. For example, yo
 o	Note: You can also plot both sets of data on the same chart in different colors.
 What strikes you about this comparison? After seeing this plot, do you feel confident in the model’s ability to predict prices? 
 
+![alt text](https://github.com/nisha1992/Predicting-Diamond-Prices/blob/master/CaretvsPrices.png) 
 
 # Observations from the plot :
 1.	Caret is not linearly distributed with prices. If we see the plot for caret 0 to 1, Prices seem almost linear but from 1 to 3 caret, prices are not linear with caret. Here the prices are distributed in diverse range for each caret e.g prices for caret 1 varies from aroud 2500 to 20000. Its seems like in segment 1 to 3 caret, there are some other independent factors which are affecting the diamond prices.
